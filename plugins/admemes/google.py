@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib
-from LUNA-EXTRA-FEATURES import telethn as tbot
+from admemes import telethn as tbot
 import glob
 import io
 import os

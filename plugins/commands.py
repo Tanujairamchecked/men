@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/All_in_ones_01')
             ],[      
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
+            InlineKeyboardButton('🌹 ᎪᏴϴႮͲ 🌹', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]         
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/All_in_ones_01')
             ],[      
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
+            InlineKeyboardButton('🌹 ᎪᏴϴႮͲ 🌹', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]

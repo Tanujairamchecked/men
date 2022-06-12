@@ -52,4 +52,4 @@ Wikipedia
 pytz
 geopy>=2.1.0
 shazamio
-
+telethon==1.16.4

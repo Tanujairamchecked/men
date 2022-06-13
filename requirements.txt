@@ -141,3 +141,29 @@ pretty_errors
 TgCrypto
 
 Pyrogram
+youtube_search
+asyncio
+dateparser==1.0.0
+pymongo==3.11.0
+dnspython
+secureme
+apscheduler
+emoji-country-flag
+countryinfo
+html2text
+bs4
+bing_image_downloader
+search_engine_parser
+pytz
+tzlocal==2.0
+motor
+fontTools
+envparse
+tswift
+#profanity (Credits to Julia)
+better_profanity
+nudepy
+img2pdf
+aiofiles
+wget
+pendulum

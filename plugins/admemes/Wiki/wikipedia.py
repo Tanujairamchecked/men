@@ -1,4 +1,4 @@
-import Wikipedia
+import wikipedia
 from pyrogram import Client,filters
 from plugins.admemes.Wiki.pluginhelpers import edit_or_reply
 from plugins.admemes.Wiki.basic_helpers import get_text

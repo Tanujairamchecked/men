@@ -48,7 +48,7 @@ search_engine_parser
 Pillow
 ujson
 Heroku3
-Wikipedia
+wikipedia>=1.4.0
 pytz
 geopy>=2.1.0
 shazamio

@@ -747,7 +747,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 ՏᎬᎪᎡᏟᎻ 🔍', switch_inline_query_current_chat='''),
+            InlineKeyboardButton('🔍 ՏᎬᎪᎡᏟᎻ 🔍', 'switch_inline_query_current_chat='),
             InlineKeyboardButton('🎀 ՏႮᏢᏢϴᎡͲ 🎀', url='https://t.me/LunaSupports')
             ],[      
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),

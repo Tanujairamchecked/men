@@ -91,7 +91,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "All_in_ones_01",
+            "value": "LunaSupports",
             "required": false
         },
         "IMDB": {

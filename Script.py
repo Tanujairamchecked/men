@@ -173,9 +173,9 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙻𝚄𝙽𝙰](https://telegra.ph/file/db2f78b908af05fa492bf.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
+    PRIVATEBOT_TXT = """<b>என்ன பயமா இருக்கா இன்னும் பயங்கரமா இருக்கும்</b>
 <b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
-<b>›› 𝙻𝚄𝙽𝙰 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
+<b>›› [𝙻𝚄𝙽𝙰](https://telegra.ph/file/641fe87d82af76c925e17.mp4) 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈😍</b>
 <b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
 

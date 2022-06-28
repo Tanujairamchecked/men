@@ -837,6 +837,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽', callback_data='passgen'),
             InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃', callback_data='font')
             ],[
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='song'),
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
@@ -1284,6 +1285,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
+    elif query.data == "song":
+        buttons = [[
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SONG_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "stats":
         buttons = [[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands'),
@@ -1588,4 +1599,4 @@ async def manual_filters(client, message, text=False):
     else:
         return False
 
-#ᗩᒍᗩ᙭
+#LUNA

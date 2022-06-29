@@ -192,15 +192,17 @@ async def help(client, message):
             InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼', callback_data='shazam'),
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽', callback_data='passgen'),
             InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃', callback_data='font')
+            ],[
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='song')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_photo(
+        await message.reply_video(
             photo=random.choice(PICS),
             caption=script.COMMANDS_TXT.format(message.from_user.mention),
             reply_markup=reply_markup,
             parse_mode='html'
         )
-
+#pics features (photo or video)
 
 @Client.on_message(filters.command(["imdb", 'search']))
 async def imdb_search(client, message):

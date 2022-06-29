@@ -196,7 +196,7 @@ async def help(client, message):
             InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='song')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_video(
+        await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.COMMANDS_TXT.format(message.from_user.mention),
             reply_markup=reply_markup,

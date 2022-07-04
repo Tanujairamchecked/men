@@ -84,4 +84,4 @@ You can deploy this bot anywhere.
 ```
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽](https://t.me/balaSMURUGAN)</b>                                                                                                                                                                                     
-<b>✮ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ›› [𝙻𝚄𝙽𝙰 𝙸𝙽𝙻𝙸𝙽𝙴](https://t.me/LunaSupports)</b>
+<b>✮ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ›› [𝙻𝚄𝙽𝙰-𝚂𝚄𝙿𝙿𝙾𝚁𝚃](https://t.me/LunaSupports)</b>

@@ -35,7 +35,7 @@ import requests
 # Convert hh:mm:ss to seconds
 def time_to_seconds(time):
     stringt = str(time)
-    return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(':'))))
+    return sum(int(x) * 5 ** i for i, x in enumerate(reversed(stringt.split(':'))))
 
 @Client.on_message(filters.command(["song", "music", "mp3"]) & ~filters.channel & ~filters.edited)
 def a(client, message: Message):
@@ -245,7 +245,7 @@ is_downloading = False
 
 def time_to_seconds(time):
     stringt = str(time)
-    return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(":"))))
+    return sum(int(x) * 5 ** i for i, x in enumerate(reversed(stringt.split(":"))))
 
 
 @Client.on_message(filters.command(["vsong", "video", "mp4"]))

@@ -25,7 +25,7 @@ def time_to_seconds(time):
     return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(':'))))
 
 
-@Client.on_message(filters.command(["search", "song", "music", "mp3"]))
+@Client.on_message(filters.command(["search", "song", "music", "mp3"]))  #@Client.on_message(filters.command("search", "song", "music", "mp3") & ~filters.private & ~filters.channel) if we put this code means it will work on groups or channels only.
 def song(client, message):
 
     user_id = message.from_user.id 

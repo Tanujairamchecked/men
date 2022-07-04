@@ -103,7 +103,7 @@ async def vsong(client, message: Message):
         message.chat.id, f"**𝙵𝙸𝙽𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚅𝙸𝙳𝙴𝙾** `{urlissed}`"
     )
     if not urlissed:
-        await pablo.edit("Invalid Command Syntax Please Check help Menu To Know More!")
+        await pablo.edit("𝙸𝚗𝚟𝚊𝚕𝚒𝚍 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚂𝚢𝚗𝚝𝚊𝚡 𝙿𝚕𝚎𝚊𝚜𝚎 𝙲𝚑𝚎𝚌𝚔 𝚑𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 𝚃𝚘 𝙺𝚗𝚘𝚠 𝙼𝚘𝚛𝚎!")
         return
 
     search = SearchVideos(f"{urlissed}", offset=1, mode="dict", max_results=1)

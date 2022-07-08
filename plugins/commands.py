@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 ՏᎬᎪᎡᏟᎻ 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎀 ՏႮᏢᏢϴᎡͲ 🎀', url='https://t.me/LunaSupports')
+            InlineKeyboardButton('🎀 ᏟᎻᎪΝΝᎬᏞ 🎀', url='https://t.me/Inline_db')
             ],[      
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('🌹 ᎪᏴϴႮͲ 🌹', callback_data='about')
@@ -85,7 +85,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 ՏᎬᎪᎡᏟᎻ 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎀 ՏႮᏢᏢϴᎡͲ 🎀', url='https://t.me/LunaSupports')
+            InlineKeyboardButton('🎀 ᏟᎻᎪΝΝᎬᏞ 🎀', url='https://t.me/Inline_db')
             ],[      
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('🌹 ᎪᏴϴႮͲ 🌹', callback_data='about')

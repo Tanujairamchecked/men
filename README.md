@@ -4,6 +4,14 @@
   <img src="https://telegra.ph/file/28c3d6a3a6f8a372a9c21.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
 </p>
 
+[![Stars](https://img.shields.io/github/stars/BalamuruganDV/LUNA-XTRA-FEATURE?style=flat-square&color=pink)](https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE/stargazers)
+[![Forks](https://img.shields.io/github/forks/BalamuruganDV/LUNA-XTRA-FEATURE?style=flat-square&color=pink)](https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE/fork)
+[![Size](https://img.shields.io/github/repo-size/BalamuruganDV/LUNA-XTRA-FEATURE?style=flat-square&color=pink)](https://github.com//BalamuruganDV/LUNA-XTRA-FEATURE)      
+[![Contributors](https://img.shields.io/github/contributors/BalamuruganDV/LUNA-XTRA-FEATURE?style=flat-square&color=pink)](https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-red)](https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/BalamuruganDV/LUNA-XTRA-FEATURE.svg)](https://stars.medv.io/BalamuruganDV/LUNA-XTRA-FEATURE)
+
+
 ## Features
 
 - [x] Auto Filter

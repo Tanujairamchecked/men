@@ -6,7 +6,7 @@ import asyncio
 from pyrogram.types import Message
 from typing import Union
 import re
-import os
+import os==2021.4.18
 from datetime import datetime
 from typing import List
 from pyrogram.types import InlineKeyboardButton

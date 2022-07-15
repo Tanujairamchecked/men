@@ -33,7 +33,7 @@ async def telegraph(client, message):
     try:
         response = upload_file(download_location)
     except Exception as document:
-        await message.reply_text(message, text=video, photo)
+        await message.reply_text(message, text=video)
     else:
         await message.reply(
             f"Link :- <code>https://telegra.ph{response[0]}</code>",

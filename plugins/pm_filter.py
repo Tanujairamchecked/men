@@ -751,7 +751,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/Inline_db')
             ],[      
             InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ💝, callback_data='about')
+            InlineKeyboardButton('ᎪᏴϴႮͲ💝', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]
@@ -795,7 +795,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
             InlineKeyboardButton('𝙰𝚄𝚃𝙾-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂🌩️', callback_data='coct')
+            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
             ],[
             InlineKeyboardButton('𝚈𝚃-𝚂𝙴𝙰𝚁𝙲𝙷🔎', callback_data='ytsearch'),
             InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰📚', callback_data='extra'),

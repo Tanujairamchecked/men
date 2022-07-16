@@ -795,49 +795,49 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
             InlineKeyboardButton('𝙰𝚄𝚃𝙾-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
+            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂🌩️', callback_data='coct')
             ],[
-            InlineKeyboardButton('𝚈𝚃-𝚂𝙴𝙰𝚁𝙲𝙷', callback_data='ytsearch'),
-            InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰', callback_data='extra'),
-            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾", callback_data='video')
+            InlineKeyboardButton('𝚈𝚃-𝚂𝙴𝙰𝚁𝙲𝙷🔎', callback_data='ytsearch'),
+            InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰📚', callback_data='extra'),
+            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾📹", callback_data='video')
             ],[
-            InlineKeyboardButton('𝙿𝙸𝙽', callback_data='pin'), 
-            InlineKeyboardButton('𝙿𝙰𝚂𝚃𝙴', callback_data='pastes'),
-            InlineKeyboardButton("𝙸𝙼𝙰𝙶𝙴", callback_data='image')
+            InlineKeyboardButton('𝙿𝙸𝙽📌', callback_data='pin'), 
+            InlineKeyboardButton('𝙿𝙰𝚂𝚃𝙴💌', callback_data='pastes'),
+            InlineKeyboardButton("𝙸𝙼𝙰𝙶𝙴🖼️", callback_data='image')
             ],[
-            InlineKeyboardButton('𝙵𝚄𝙽', callback_data='fun'), 
-            InlineKeyboardButton('𝙹𝚂𝙾𝙽', callback_data='son'),
-            InlineKeyboardButton('𝚃𝚃𝚂', callback_data='ttss')
+            InlineKeyboardButton('𝙵𝚄𝙽🎊', callback_data='fun'), 
+            InlineKeyboardButton('𝙹𝚂𝙾𝙽💣', callback_data='son'),
+            InlineKeyboardButton('𝚃𝚃𝚂🎤', callback_data='ttss')
             ],[
-            InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
-            InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),
-            InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele')
+            InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴🗑️', callback_data='purges'),
+            InlineKeyboardButton('𝙿𝙸𝙽𝙶🏓', callback_data='pings'),
+            InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷🤖', callback_data='tele')
             ],[
-            InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
-            InlineKeyboardButton('𝙼𝚄𝚃𝙴', callback_data='restric'),
-            InlineKeyboardButton('𝙺𝙸𝙲𝙺', callback_data='zombies')
+            InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂💫', callback_data='whois'),
+            InlineKeyboardButton('𝙼𝚄𝚃𝙴🔇', callback_data='restric'),
+            InlineKeyboardButton('𝙺𝙸𝙲𝙺👻', callback_data='zombies')
             ],[
-            InlineKeyboardButton('𝚁𝙴𝙿𝙾𝚁𝚃', callback_data='report'),
-            InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱', callback_data='ytthumb'),
-            InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳', callback_data='sticker')
+            InlineKeyboardButton('𝚁𝙴𝙿𝙾𝚁𝚃❗', callback_data='report'),
+            InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱🔲', callback_data='ytthumb'),
+            InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳🇮🇳', callback_data='sticker')
             ],[
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'),
-            InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
-            InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
+            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳🦠', callback_data='corona'),
+            InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺📣', callback_data='abook'),
+            InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃⌛', callback_data='urlshort')
             ],[
-            InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
-            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂🌐', callback_data='gtrans'),
+            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴📁', callback_data='newdata'),
+            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂📊', callback_data='stats')
             ],[
-            InlineKeyboardButton('𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰', callback_data='wiki'),
-            InlineKeyboardButton('𝙸𝙿-𝙰𝙳𝙳𝚁𝙴𝚂𝚂', callback_data='ipaddress'),
-            InlineKeyboardButton('𝙻𝚈𝚁𝙸𝙲𝚂', callback_data='lyric')
+            InlineKeyboardButton('𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰📄', callback_data='wiki'),
+            InlineKeyboardButton('𝙸𝙿-𝙰𝙳𝙳𝚁𝙴𝚂𝚂📱', callback_data='ipaddress'),
+            InlineKeyboardButton('𝙻𝚈𝚁𝙸𝙲𝚂📝', callback_data='lyric')
             ],[
-            InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼', callback_data='shazam'),
-            InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽', callback_data='passgen'),
-            InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃', callback_data='font')
+            InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼⚡', callback_data='shazam'),
+            InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽🔪', callback_data='passgen'),
+            InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃✒️', callback_data='font')
             ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='song'),
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song'),
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')

@@ -151,7 +151,7 @@ async def help(client, message):
         buttons = [[
             InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
             InlineKeyboardButton('𝙰𝚄𝚃𝙾-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂🌩️', callback_data='coct')
+            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
             ],[
             InlineKeyboardButton('𝚈𝚃-𝚂𝙴𝙰𝚁𝙲𝙷🔎', callback_data='ytsearch'),
             InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰📚', callback_data='extra'),
@@ -191,7 +191,7 @@ async def help(client, message):
             ],[
             InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼⚡', callback_data='shazam'),
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽🔪', callback_data='passgen'),
-            InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃✒️', callback_data='font')
+            InlineKeyboardButton('𝚂-𝚃𝙴𝚇𝚃✒️', callback_data='font')
             ],[
             InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song')
         ]]

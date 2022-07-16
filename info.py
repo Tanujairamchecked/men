@@ -49,6 +49,9 @@ TG_MAX_SELECT_LEN = environ.get("TG_MAX_SELECT_LEN", "100")
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 
+# Auth Users
+AUTH_USERS = [ int(chat) for chat in Config.AUTH_USERS.split(",") if chat != '']
+
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")

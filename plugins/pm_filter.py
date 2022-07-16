@@ -747,11 +747,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 ՏᎬᎪᎡᏟᎻ 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎀 ᏟᎻᎪΝΝᎬᏞ 🎀', url='https://t.me/Inline_db')
+            InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🔍', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/Inline_db')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('🌹 ᎪᏴϴႮͲ 🌹', callback_data='about')
+            InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
+            InlineKeyboardButton('ᎪᏴϴႮͲ💝, callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]
@@ -835,7 +835,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼⚡', callback_data='shazam'),
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽🔪', callback_data='passgen'),
-            InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃✒️', callback_data='font')
+            InlineKeyboardButton('𝚂-𝚃𝙴𝚇𝚃✒️', callback_data='font')
             ],[
             InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song'),
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')

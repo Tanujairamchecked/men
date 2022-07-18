@@ -1483,7 +1483,7 @@ async def auto_filter(client, msg, spoll=False):
     else:
         cap = f"ᎻᎬᎡᎬ ᏆՏ ᏔᎻᎪͲ Ꮖ ҒϴႮΝᎠ ҒϴᎡ ᎽϴႮᎡ ϘႮᎪᎡᎽ {search}"
     if imdb and imdb.get('poster'):
-        try:                              #👇-Remove this---👇 from imdb to this symbols')' and put "https://telegra.ph/file/1f03bd1fe5c6cb2b3a3c0.mp4"
+        try:                              #👇-Remove this---👇 from imdb to this symbol')' and put "https://telegra.ph/file/1f03bd1fe5c6cb2b3a3c0.mp4"
             await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
                                       reply_markup=InlineKeyboardMarkup(btn))
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):

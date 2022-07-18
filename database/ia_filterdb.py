@@ -65,7 +65,7 @@ async def save_file(media):
             return True, 1
 
 
-
+                                                               #👇 here you put other number like 6 means you can get 6 search results like your searching movies.
 async def get_search_results(query, file_type=None, max_results=10, offset=0, filter=False):
     """For given query return (results, next_offset)"""
 

@@ -11,4 +11,3 @@ Bot = Client(
 @Bot.on_message(filters.private & filters.all & filters.user(USER_ID))
 async def start(bot, update):
     await bot.send_message(CHAT_ID,update.text)
-Bot.run()

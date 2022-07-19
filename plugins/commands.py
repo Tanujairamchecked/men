@@ -47,7 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
             InlineKeyboardButton('ᎪᏴϴႮͲ💝', callback_data='about')
             ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_video( #photo or video
@@ -90,7 +90,7 @@ async def start(client, message):
             InlineKeyboardButton('ᏟϴᎷᎷᎪᎠՏ❓', callback_data='commands'),
             InlineKeyboardButton('ᎪᏴϴႮͲ💝', callback_data='about')
             ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

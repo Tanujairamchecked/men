@@ -35,6 +35,11 @@
 - [x] COVID Information
 - [x] File Store
 - [X] Image Editor
+- [x] Wikipedia
+- [x] Share Text
+- [x] Ip Address tacker
+- [x] Stylish Text
+- [x] Yt Search
 
 ## Variables
 

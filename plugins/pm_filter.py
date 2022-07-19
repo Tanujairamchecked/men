@@ -838,6 +838,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝚂-𝚃𝙴𝚇𝚃✒️', callback_data='font')
             ],[
             InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song'),
+            InlineKeyboardButton('𝚂𝙷𝙰𝚁𝙴-𝚃𝚇𝚃➡️', callback_data='sharetxt'),
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
@@ -1292,6 +1293,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.SONG_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "sharetxt":
+        buttons = [[
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SHARETXT_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )

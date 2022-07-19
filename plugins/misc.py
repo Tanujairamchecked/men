@@ -193,7 +193,8 @@ async def help(client, message):
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽🔪', callback_data='passgen'),
             InlineKeyboardButton('𝚂-𝚃𝙴𝚇𝚃✒️', callback_data='font')
             ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song')
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song'),
+            InlineKeyboardButton('𝚂𝙷𝙰𝚁𝙴-𝚃𝚇𝚃➡️', callback_data='sharetxt')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

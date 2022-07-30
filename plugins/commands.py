@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/Inline_db')
             ],[      
             InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ💝', callback_data='about')
+            InlineKeyboardButton('ᎪᏴϴႮͲ🔖', callback_data='about')
             ],[
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]         
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/Inline_db')
             ],[      
             InlineKeyboardButton('ᏟϴᎷᎷᎪᎠՏ❓', callback_data='commands'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ💝', callback_data='about')
+            InlineKeyboardButton('ᎪᏴϴႮͲ🔖', callback_data='about')
             ],[
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]

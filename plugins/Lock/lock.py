@@ -1,7 +1,7 @@
 from asyncio import sleep
 from pyrogram.errors import ChatAdminRequired, ChatNotModified, RPCError
 from pyrogram.types import ChatPermissions, Message
-from Emilia import LOGGER
+from Luna import LOGGER
 from pyrogram import Client as Alita
 from database.approve_db import Approve
 from Emilia.tr_engine import tlang

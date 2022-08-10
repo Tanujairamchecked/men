@@ -1,5 +1,5 @@
 from threading import RLock
-from Emilia import LOGGER
+from Luna import LOGGER
 from database.mangodb import MongoDB
 
 INSERTION_LOCK = RLock()

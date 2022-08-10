@@ -1,7 +1,7 @@
 import wikipedia
 from pyrogram import Client, filters
 
-@Client.on_message(filters.command('wikipedia'))
+@Client.on_message(filters.command('wikipedia, wiki'))
 async def wiki_pedia(Client, message):
     await message.edit("Processing ...")
     query = message.filtered_input_str

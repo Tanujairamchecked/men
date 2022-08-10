@@ -54,3 +54,4 @@ geopy>=2.1.0
 shazamio
 pyrogram==1.4.16
 prettyconf
+yaml

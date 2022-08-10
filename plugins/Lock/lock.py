@@ -4,8 +4,8 @@ from pyrogram.types import ChatPermissions, Message
 from Luna import LOGGER
 from pyrogram import Client as Alita
 from database.approve_db import Approve
-from Emilia.tr_engine import tlang
-from Emilia.utils.custom_filters import command, restrict_filter
+from Luna.tr_engine import tlang
+from Luna.utils.custom_filters import command, restrict_filter
 
 @Alita.on_message(command("locktypes"))
 async def lock_types(_, m: Message):

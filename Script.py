@@ -10,7 +10,7 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅𝟺𝟹.𝟶.𝟷</b>
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/Inline_db>𝙸𝙽𝙻𝙸𝙽𝙴 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</a></b>
+<b>✮ 𝙶𝚁𝙾𝚄𝙿: <a href=https://t.me/Hotstar_Movies_Com>𝙷𝙾𝚃𝚂𝚃𝙰𝚁-𝙼𝙾𝚅𝙸𝙴𝚂</a></b>
 <b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA>𝙿𝚊𝚔𝚔𝚊 𝙴𝚍𝚒𝚝𝚜</a></b>"""
     FONT_TXT = """<b>𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝙵𝙾𝙽𝚃 𝙼𝙾𝙳𝚄𝙻𝙴</b>
     
@@ -180,7 +180,7 @@ Do as you wish with telegra.ph module!
 • This Command Can be used by everyone"""
 
     PRIVATEBOT_TXT = """<b>›› 𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝙼.</b>
-<b>›› [𝙻𝚄𝙽𝙰](https://telegra.ph/file/a11aa3fdc9aa5bb832be6.mp4) 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃.</b>
+<b>›› [𝙻𝚄𝙽𝙰](https://graph.org/file/c220fae7eb1baab2df1f0.mp4) 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃.</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈.</b>
 <b>›› 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
 

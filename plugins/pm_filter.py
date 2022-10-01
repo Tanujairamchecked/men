@@ -748,7 +748,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/Inline_db')
+            InlineKeyboardButton('ᏀᎡϴႮᏢ🎀', url='https://t.me/Hotstar_Movies_Com')
             ],[      
             InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
             InlineKeyboardButton('ᎪᏴϴႮͲ🔖', callback_data='about')

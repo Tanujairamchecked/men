@@ -63,7 +63,7 @@ You can deploy this bot anywhere.
 <br>
 <p>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=master&name=luna">
-  <img src="https://www.koyeb.com/deploy/button.svg" alt="Deploy">
+  <img src="https://app.koyeb.com/" alt="Deploy">
 </a>
 </p>
 

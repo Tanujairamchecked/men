@@ -57,15 +57,8 @@
 
 ## Deploy
 You can deploy this bot anywhere.
-
-
 <summary>Deploy To Koyeb</summary>
-<br>
-<p>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=master&name=luna">
-  <img src="https://app.koyeb.com/" alt="Deploy">
-</a>
-</p>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=master&name=luna"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 ## Commands
 ```

@@ -53,7 +53,7 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        logging.info("Bot stopped. Bye.")
+        logging.info("𝙻𝚄𝙽𝙰 𝚂𝚃𝙾𝙿𝙿𝙴𝙳")
     
     async def iter_messages(
         self,

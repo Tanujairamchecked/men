@@ -59,10 +59,10 @@
 You can deploy this bot anywhere.
 
 
-<summary>Deploy To Heroku</summary>
+<summary>Deploy To Koyeb</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=master&name=luna">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>

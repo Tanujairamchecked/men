@@ -26,7 +26,6 @@ aiofiles
 psutil
 wheel
 humanize
-ytthumb
 pypdf2
 PyPDF2
 pyshorteners
@@ -34,7 +33,6 @@ ffmpeg-python
 TgCrypto
 py-tgcalls
 python-dotenv
-youtube_search_python
 requests
 aiohttp
 aiofiles

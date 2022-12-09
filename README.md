@@ -58,7 +58,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 <summary>Deploy To Railway</summary>
-<a target="_blank" href="https://app.railway.com/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=Railway&name=luna"><img alt="Deploy to Railway" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></a>
+<a target="_blank" href="https://railway.app/deploy?type=git&repository=github.com/BalamuruganDV/LUNA-XTRA-FEATURE&branch=Railway&name=luna"><img alt="Deploy to Railway" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></a>
 
 ## Commands
 ```

@@ -271,8 +271,8 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 █▀ ▀█▀ ▄▀█ ▀█▀ █▀
 ▄█ ░█░ █▀█ ░█░ ▄█
 <b>★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂:</b> <code>{}</code>
-<b>★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂:</b> <code>905392</code>
-<b>★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂:</b> <code>59393</code>
+<b>★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂:</b> <code>{}</code>
+<b>★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂:</b> <code>{}</code>
 <b>★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱
 <b>★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱"""
     DEVELOPER_TXT = """<b>𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>

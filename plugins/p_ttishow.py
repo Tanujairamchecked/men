@@ -52,7 +52,11 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>Hey ♥️ {u.mention}, Welcome to {message.chat.title}.../</b>"),
+            temp.MELCOW['welcome'] = await message.reply_video(
+                photo="https://telegra.ph/file/66f0d7a9866dbeb58b822.jpg",    #video                                           
+                                                 caption=f'<b>ʜᴇʏ, {u.mention} 👋🏻\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ {message.chat.title}\n\nʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴏᴠɪᴇꜱ / ꜱᴇʀɪᴇꜱ / ᴀɴɪᴍᴇꜱ ᴇᴛᴄ. ꜰʀᴏᴍ ʜᴇʀᴇ. ᴇɴᴊᴏʏ😉.\n\n<b>┏≫ ғᴏʟʟᴏᴡ ɢʀᴏᴜᴘ ʀᴜʟᴇs</b>\n┣ <b>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ›› @Hotstar_Movies_Com</b></code>\n<b>┗≫ 𝙹𝙾𝙸𝙽 ɢʀᴏᴜᴘ</b>',
+                                                 reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('➡️ 𝙶𝚁𝙾𝚄𝙿 ⬅️', url='https://t.me/Hotstar_Movies_Com') ] ] )
+                )
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))

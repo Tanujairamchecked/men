@@ -18,6 +18,7 @@ aiohttp==3.7.4
 gTTS
 googletrans==3.1.0a0
 NumPy
+ytthumb
 glitch_this
 opencv-python-headless
 pypng

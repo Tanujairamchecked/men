@@ -1,4 +1,5 @@
-git+https://github.com/BalamuruganDV/pyrogram@inline-m
+
+git+https://github.com/BalamuruganDV/pyrogram-old@inline-m
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.4.0
@@ -19,6 +20,7 @@ googletrans==3.1.0a0
 NumPy
 glitch_this
 opencv-python-headless
+youtube-search-python==1.4.6
 pypng
 Pillow
 wget
@@ -33,10 +35,12 @@ ffmpeg-python
 TgCrypto
 py-tgcalls
 python-dotenv
+youtube_search_python
 requests
 aiohttp
 aiofiles
 asyncio
+youtube_search
 search_engine_parser
 Pillow
 ujson
@@ -45,3 +49,4 @@ wikipedia>=1.4.0
 pytz
 geopy>=2.1.0
 shazamio
+Footer

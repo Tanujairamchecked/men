@@ -831,9 +831,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Cᴏʀᴏɴᴀ🦠', callback_data='corona'),  
             InlineKeyboardButton('Sᴛɪᴄᴋᴇʀ-Iᴅ🦹', callback_data='sticker')
             ],[
-            InlineKeyboardButton('Aᴜᴅɪᴏ-sʏsᴛᴇᴍ📣', callback_data='abook'),
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands'),
             InlineKeyboardButton('Uʀʟ-ᴍɪssɪᴏɴ⌛', callback_data='urlshort'),
-            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands')
+            InlineKeyboardButton('ΝᎬՏͲ', callback_data='f')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -855,6 +855,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿ᴀss_Gᴇɴ♟️', callback_data='passgen'),
             InlineKeyboardButton('𝚂-Tᴇsᴛ✒️', callback_data='font')
             ],[
+            InlineKeyboardButton('Aᴜᴅɪᴏ-sʏsᴛᴇᴍ📣', callback_data='abook'),
             InlineKeyboardButton('Sʜᴀʀᴇ_Tᴇsᴛ➡️', callback_data='sharetxt'),
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='e')
         ]]

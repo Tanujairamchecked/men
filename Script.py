@@ -181,9 +181,9 @@ Do as you wish with telegra.ph module!
 • This Command Can be used by everyone"""
 
     PRIVATEBOT_TXT = """<b>›› 𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝙼.</b>
-<b>›› [𝙻𝚄𝙽𝙰](https://graph.org/file/c220fae7eb1baab2df1f0.mp4) 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃.</b>
+<b>›› [ᏞᏆᏞᏞᎽ](https://graph.org/file/c220fae7eb1baab2df1f0.mp4) 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃.</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈.</b>
-<b>›› 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
+<b>›› 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 <a href=https://t.me/doctor6689>♨️ᎠϴᏟͲϴᎡ♨️</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
@@ -207,11 +207,11 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--LUNA Supports both url and alert inline buttons.
+-LILLY Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝙻𝚄𝙽𝙰 supports buttons with any telegram media type.
+2. LILLY supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -244,7 +244,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙻𝚄𝙽𝙰
+𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>

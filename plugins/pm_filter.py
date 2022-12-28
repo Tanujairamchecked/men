@@ -797,7 +797,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Aᴜᴛᴏ-Fɪʟᴛᴇʀ', callback_data='autofilter'),
             InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴs', callback_data='coct')
             ],[
-            InlineKeyboardButton('𝚃-𝚃-𝚂🎤', callback_data='ttss')
+            InlineKeyboardButton('𝚃-𝚃-𝚂🎤', callback_data='ttss'),
             InlineKeyboardButton('Exᴛʀᴀ🧵', callback_data='extra'),
             InlineKeyboardButton("Vɪᴅᴇᴏ📽️", callback_data='video')
             ],[
@@ -807,23 +807,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('Fᴜɴ🎊', callback_data='fun'), 
             InlineKeyboardButton('Jsᴏɴ📟', callback_data='son'),
+            InlineKeyboardButton('ΝᎬՏͲ', callback_data='e'),
+            ],[
             
             ],[
-            InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴🗑️', callback_data='purges'),
-            InlineKeyboardButton('𝙿𝙸𝙽𝙶🏓', callback_data='pings'),
-            InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷🤖', callback_data='tele')
+            
             ],[
-            InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂💫', callback_data='whois'),
-            InlineKeyboardButton('𝙼𝚄𝚃𝙴🔇', callback_data='restric'),
-            InlineKeyboardButton('𝙺𝙸𝙲𝙺👻', callback_data='zombies')
+            
             ],[
-            InlineKeyboardButton('𝚁𝙴𝙿𝙾𝚁𝚃❗', callback_data='report'),
-            InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱🔲', callback_data='ytthumb'),
-            InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳🇮🇳', callback_data='sticker')
-            ],[
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳🦠', callback_data='corona'),
-            InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺📣', callback_data='abook'),
-            InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃⌛', callback_data='urlshort')
+            
+            
             ],[
             InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂🌐', callback_data='gtrans'),
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴📁', callback_data='newdata'),
@@ -846,6 +839,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.COMMANDS_TXT.format(query.from_user.mention),
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "e":
+        buttons = [[
+            InlineKeyboardButton('Pᴜʀɢᴇ🗑️', callback_data='purges'),
+            InlineKeyboardButton('Pɪɴɢ✨, callback_data='pings'),
+            InlineKeyboardButton('Tᴇʟᴇɢʀᴀᴘʜ📇', callback_data='tele')
+            ],[
+            InlineKeyboardButton('Wʜᴏɪs💫', callback_data='whois'),
+            InlineKeyboardButton('Mᴜᴛᴇ🔇', callback_data='restric'),
+            InlineKeyboardButton('Kɪᴄᴋ🐾', callback_data='zombies')
+            ],[
+            InlineKeyboardButton('Rᴇᴘᴏʀᴛ❗', callback_data='report'),
+            InlineKeyboardButton('Cᴏʀᴏɴᴀ🦠', callback_data='corona'),  
+            InlineKeyboardButton('Sᴛɪᴄᴋᴇʀ-Iᴅ🦹', callback_data='sticker')
+            ],[
+            InlineKeyboardButton('Aᴜᴅɪᴏ-sʏsᴛᴇᴍ📣', callback_data='abook'),
+            InlineKeyboardButton('Uʀʟ-ᴍɪssɪᴏɴ⌛', callback_data='urlshort')
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.E_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )

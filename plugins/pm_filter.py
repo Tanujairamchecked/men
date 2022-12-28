@@ -807,32 +807,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('Fᴜɴ🎊', callback_data='fun'), 
             InlineKeyboardButton('Jsᴏɴ📟', callback_data='son'),
-            InlineKeyboardButton('ΝᎬՏͲ', callback_data='e'),
-            ],[
-            
-            ],[
-            
-            ],[
-            
-            ],[
-            
-            
-            ],[
-            InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂🌐', callback_data='gtrans'),
-            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴📁', callback_data='newdata'),
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂📊', callback_data='stats')
-            ],[
-            InlineKeyboardButton('𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰📄', callback_data='wiki'),
-            InlineKeyboardButton('𝙸𝙿-𝙰𝙳𝙳𝚁𝙴𝚂𝚂📱', callback_data='ipaddress'),
-            InlineKeyboardButton('𝙻𝚈𝚁𝙸𝙲𝚂📝', callback_data='lyric')
-            ],[
-            InlineKeyboardButton('𝚂𝙷𝙰𝚉𝙰𝙼⚡', callback_data='shazam'),
-            InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽🔪', callback_data='passgen'),
-            InlineKeyboardButton('𝚂-𝚃𝙴𝚇𝚃✒️', callback_data='font')
-            ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='song'),
-            InlineKeyboardButton('𝚂𝙷𝙰𝚁𝙴-𝚃𝚇𝚃➡️', callback_data='sharetxt'),
-            InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton('ΝᎬՏͲ', callback_data='e'),                  
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
         ]]
@@ -863,6 +838,29 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.E_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "f":
+        buttons = [[
+            InlineKeyboardButton('G-Tʀᴀɴs🌐', callback_data='gtrans'),
+            InlineKeyboardButton('Fɪʟᴇ Sᴛᴏʀᴇs📁', callback_data='newdata'),
+            InlineKeyboardButton('Sᴛᴀᴛᴜs🗽, callback_data='stats')
+            ],[
+            InlineKeyboardButton('Wɪᴋɪ-Iɴғᴏʀᴍᴀᴛɪᴠᴇ📄', callback_data='wiki'),
+            InlineKeyboardButton('Iᴘ♨️Aᴅᴅʀᴇss📱', callback_data='ipaddress'),
+            InlineKeyboardButton('Lʏʀɪᴄs📝', callback_data='lyric')
+            ],[
+            InlineKeyboardButton('Sᴏɴɢs🎶', callback_data='song'),
+            InlineKeyboardButton('𝙿ᴀss_Gᴇɴ♟️', callback_data='passgen'),
+            InlineKeyboardButton('𝚂-Tᴇsᴛ✒️', callback_data='font')
+            ],[
+            InlineKeyboardButton('Sʜᴀʀᴇ_Tᴇsᴛ➡️', callback_data='sharetxt'),
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='e')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.F_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )

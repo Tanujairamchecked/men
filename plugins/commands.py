@@ -40,13 +40,21 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+
             ],[
-            InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᏀᎡϴႮᏢ🎀', url='https://t.me/Hotstar_Movies_Com')
+
+            InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ ᎷϴᏙᏆᎬՏ🔍', switch_inline_query_current_chat='')
+
             ],[      
-            InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ❓', callback_data='commands'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ🔖', callback_data='about')
+
+            InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ ❔', callback_data='commands')
+
             ],[
+
+            InlineKeyboardButton('ᎪᏴϴႮͲ  ᎷᎽ ՏᎽՏͲᎬᎷ 🤖', callback_data='about')
+
+            ],[
+
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
@@ -83,13 +91,21 @@ async def start(client, message):
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+
             ],[
-            InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᏀᎡϴႮᏢ🎀', url='https://t.me/Hotstar_Movies_Com')
+
+            InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ ᎷϴᏙᏆᎬՏ🔍', switch_inline_query_current_chat='')
+
             ],[      
-            InlineKeyboardButton('ᏟϴᎷᎷᎪᎠՏ❓', callback_data='commands'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ🔖', callback_data='about')
+
+            InlineKeyboardButton('ᏟϴᎷᎷᎪΝᎠՏ ❔', callback_data='commands')
+
             ],[
+
+            InlineKeyboardButton('ᎪᏴϴႮͲ  ᎷᎽ ՏᎽՏͲᎬᎷ 🤖', callback_data='about')
+
+            ],[
+
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)

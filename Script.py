@@ -4,13 +4,13 @@ class script(object):
     COMMANDS_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/doctor6689>🎀ᎠϴᏟͲϴᎡ 🎀</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
-<b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅𝟺𝟹.𝟶.𝟷</b>
-<b>✮ 𝙶𝚁𝙾𝚄𝙿: <a href=https://t.me/Hotstar_Movies_Com>𝙷𝙾𝚃𝚂𝚃𝙰𝚁-𝙼𝙾𝚅𝙸𝙴𝚂</a></b>
+<b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅3.0</b>
+<b>✮ 𝙶𝚁𝙾𝚄𝙿: <a href=https://t.me/firstshowers>ҒᏆᎡՏͲՏᎻϴᏔᎬᎡՏ🎥</a></b>
 <b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA>𝙿𝚊𝚔𝚔𝚊 𝙴𝚍𝚒𝚝𝚜</a></b>"""
     FONT_TXT = """<b>𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝙵𝙾𝙽𝚃 𝙼𝙾𝙳𝚄𝙻𝙴</b>
     
@@ -65,7 +65,7 @@ class script(object):
 /wiki 𝚘𝚛 /wikipedia {𝚈𝙾𝚄𝚁_𝚃𝙸𝚃𝚃𝙻𝙴}"""
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+<b> 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
 
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 
@@ -93,7 +93,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 - Filter is the feature were users can set automated replies for a particular keyword and LUNA will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. LUNA should have admin privillage.
+1. lilly should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -276,16 +276,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <b>★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱
 <b>★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱"""
     DEVELOPER_TXT = """<b>𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-<b>𝙻𝚄𝙽𝙰 𝙰𝙿𝙿 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
-   ★𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽
-𝙰𝙱𝙾𝚄𝚃:𝙻𝚄𝙽𝙰 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙸𝚅𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-   ★𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼
-𝙰𝙱𝙾𝚄𝚃:𝚁𝙴𝚇 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-   ★𝙰𝙰𝙳𝙷𝙸
-𝙰𝙱𝙾𝚄𝚃:𝙾𝙿𝚄𝚂 𝚃𝙴𝙲𝙷𝚉 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 𝙰𝙽𝙳 𝚈𝙾𝚄𝚃𝚄𝙱𝙴𝚁.
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙶𝚄𝚈𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙶𝚄𝚈𝚂"""
+𝙶𝚄𝚈𝚂"""
     LOG_TEXT_G = """ΝᎬᏔᏀᎡϴႮᏢ
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>

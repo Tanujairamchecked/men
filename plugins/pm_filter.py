@@ -793,21 +793,21 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "commands":
         buttons = [[
-            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
-            InlineKeyboardButton('𝙰𝚄𝚃𝙾-𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
+            InlineKeyboardButton('Mᴀɴᴜᴇʟ ғɪʟᴛᴇʀ', callback_data='manuelfilter'),
+            InlineKeyboardButton('Aᴜᴛᴏ-Fɪʟᴛᴇʀ', callback_data='autofilter'),
+            InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴs', callback_data='coct')
             ],[
-            InlineKeyboardButton('𝚈𝚃-𝚂𝙴𝙰𝚁𝙲𝙷🔎', callback_data='ytsearch'),
-            InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰📚', callback_data='extra'),
-            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾📹", callback_data='video')
+            InlineKeyboardButton('𝚃-𝚃-𝚂🎤', callback_data='ttss')
+            InlineKeyboardButton('Exᴛʀᴀ🧵', callback_data='extra'),
+            InlineKeyboardButton("Vɪᴅᴇᴏ📽️", callback_data='video')
             ],[
-            InlineKeyboardButton('𝙿𝙸𝙽📌', callback_data='pin'), 
-            InlineKeyboardButton('𝙿𝙰𝚂𝚃𝙴💌', callback_data='pastes'),
-            InlineKeyboardButton("𝙸𝙼𝙰𝙶𝙴🖼️", callback_data='image')
+            InlineKeyboardButton('Pɪɴ📌', callback_data='pin'), 
+            InlineKeyboardButton('Pᴀsᴛᴇ💌', callback_data='pastes'),
+            InlineKeyboardButton("Iᴍᴀɢᴇ🧩", callback_data='image')
             ],[
-            InlineKeyboardButton('𝙵𝚄𝙽🎊', callback_data='fun'), 
-            InlineKeyboardButton('𝙹𝚂𝙾𝙽💣', callback_data='son'),
-            InlineKeyboardButton('𝚃𝚃𝚂🎤', callback_data='ttss')
+            InlineKeyboardButton('Fᴜɴ🎊', callback_data='fun'), 
+            InlineKeyboardButton('Jsᴏɴ📟', callback_data='son'),
+            
             ],[
             InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴🗑️', callback_data='purges'),
             InlineKeyboardButton('𝙿𝙸𝙽𝙶🏓', callback_data='pings'),
